@@ -1,0 +1,14 @@
+C:\CODE\itsshortforleo\ShutdownVR\bin\Debug\netcoreapp3.1\ShutdownVR.exe
+C:\CODE\itsshortforleo\ShutdownVR\bin\Debug\netcoreapp3.1\ShutdownVR.deps.json
+C:\CODE\itsshortforleo\ShutdownVR\bin\Debug\netcoreapp3.1\ShutdownVR.runtimeconfig.json
+C:\CODE\itsshortforleo\ShutdownVR\bin\Debug\netcoreapp3.1\ShutdownVR.runtimeconfig.dev.json
+C:\CODE\itsshortforleo\ShutdownVR\bin\Debug\netcoreapp3.1\ShutdownVR.dll
+C:\CODE\itsshortforleo\ShutdownVR\bin\Debug\netcoreapp3.1\ShutdownVR.pdb
+C:\CODE\itsshortforleo\ShutdownVR\obj\Debug\netcoreapp3.1\ShutdownVR.AssemblyInfoInputs.cache
+C:\CODE\itsshortforleo\ShutdownVR\obj\Debug\netcoreapp3.1\ShutdownVR.AssemblyInfo.cs
+C:\CODE\itsshortforleo\ShutdownVR\obj\Debug\netcoreapp3.1\ShutdownVR.csproj.CoreCompileInputs.cache
+C:\CODE\itsshortforleo\ShutdownVR\obj\Debug\netcoreapp3.1\ShutdownVR.dll
+C:\CODE\itsshortforleo\ShutdownVR\obj\Debug\netcoreapp3.1\ShutdownVR.pdb
+C:\CODE\itsshortforleo\ShutdownVR\obj\Debug\netcoreapp3.1\ShutdownVR.genruntimeconfig.cache
+C:\CODE\itsshortforleo\ShutdownVR\obj\Debug\netcoreapp3.1\ShutdownVR.csproj.AssemblyReference.cache
+C:\CODE\itsshortforleo\ShutdownVR\obj\Debug\netcoreapp3.1\ShutdownVR.GeneratedMSBuildEditorConfig.editorconfig
